@@ -1,0 +1,12 @@
+.navRight{
+    display: flex;
+    
+}
+.right line{
+    margin: 10px;
+
+}
+
+#lines{
+    margin-right: 6px;
+}

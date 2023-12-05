@@ -1,0 +1,18 @@
+.navleft{
+    display: flex;
+    margin: 10px;
+}
+.youtube-icon{
+    color: red;
+}
+
+.nevCenter{
+    display: flex;
+
+}
+#menuss{
+    margin: 12px;
+}
+#yutube{
+    margin: 4px;
+}
